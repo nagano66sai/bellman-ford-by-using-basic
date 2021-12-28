@@ -1,5 +1,5 @@
 rem    using   decimal  basic
-   rem   download   from http://hp.vector.co.jp/authors/VA008683/setup.htm    
+rem   download   from http://hp.vector.co.jp/authors/VA008683/setup.htm    
 
 LET n=7
 DIM  dist(n), node$(n),path$(n)
